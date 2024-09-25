@@ -1,7 +1,17 @@
 /*
-  Screen Saver for HelliWM
+  HHH     HHH   EEEEEEEEE   LLL         LLL         III   SSSSSSSSS   AAAAAAAAAAAA   VVV              VVV   EEEEEEEEE   RRRRRRRRRR
+  HHH     HHH   EEEEEEEEE   LLL         LLL         III   SSSSSSSSS   AAAAAAAAAAAA    VVV            VVV    EEEEEEEEE   RRR    RRR
+  HHH     HHH   EEE         LLL         LLL         III   SSS         AAA      AAA     VVV          VVV     EEE         RRR    RRR
+  HHHHHHHHHHH   EEEEEEEEE   LLL         LLL         III   SSSSSSSSS   AAAAAAAAAAAA      VVV        VVV      EEEEEEEEE   RRRRRRRRRR
+  HHHHHHHHHHH   EEEEEEEEE   LLL         LLL         III   SSSSSSSSS   AAA      AAA       VVV      VVV       EEEEEEEEE   RRRRRR
+  HHH     HHH   EEE         LLL         LLL         III         SSS   AAA      AAA        VVV    VVV        EEE         RRR RRR
+  HHH     HHH   EEEEEEEEE   LLLLLLLLL   LLLLLLLLL   III   SSSSSSSSS   AAA      AAA         VVV  VVV         EEEEEEEEE   RRR  RRR
+  HHH     HHH   EEEEEEEEE   LLLLLLLLL   LLLLLLLLL   III   SSSSSSSSS   AAA      AAA          VVVVVV          EEEEEEEEE   RRR   RRR
 */
 
+/*
+  Screen Saver for Linux
+*/
 #include "def.h"
 
 xcb_connection_t * conn;
