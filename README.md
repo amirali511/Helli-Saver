@@ -1,4 +1,6 @@
 # Helli-Saver
+![](HelliSaver.png)
+
 A Simple Screen Saver For HelliWM.
 # Description
 Helli-Saver is a simple screen saver for HelliWM that does not let the screen be empty
