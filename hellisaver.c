@@ -53,7 +53,7 @@ main (void)
   
   uint32_t values[2];
   values[0] = 0x242424;
-  values[1] = XCB_EVENT_MASK_KEY_PRESS | XCB_EVENT_MASK_BUTTON_PRESS;
+  values[1] = XCB_EVENT_MASK_EXPOSURE | XCB_EVENT_MASK_KEY_PRESS | XCB_EVENT_MASK_BUTTON_PRESS;
 
   cookie = xcb_create_window (conn,
                               XCB_COPY_FROM_PARENT,
