@@ -1,5 +1,5 @@
 project('hellisaver', 'c',
-        version: '0.1',
+        version: '1.0',
         default_options: ['warning_level=everything'])
 xcb = dependency('xcb')
 xcb_keysyms = dependency('xcb-keysyms')
