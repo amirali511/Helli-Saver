@@ -152,8 +152,8 @@ main (void)
       Creating the rectangle randomly
     */
     for (int i = 0; i < 10; i++) {
-      int x = rand() % 800;
-      int y = rand() % 600;
+      int x = rand() % 1200;
+      int y = rand() % 800;
       int width = rand() % 100 + 50;
       int height = rand() % 100 + 50;
       uint32_t color = rand() % 0xFFFFFF;
