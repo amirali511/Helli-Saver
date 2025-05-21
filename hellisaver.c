@@ -149,7 +149,7 @@ main (void)
              xcb_request_check (conn, cookie));
     
     /*
-      Creating the reactangle randomly
+      Creating the rectangle randomly
     */
     for (int i = 0; i < 10; i++) {
       int x = rand() % 800;
